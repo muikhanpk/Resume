@@ -51,7 +51,10 @@ a:hover
   color: #EAF6F6;
 }
 
-
+.circular
+{
+  border-radius : 100px;
+}
 
 .Sales {
   width: 25%;
